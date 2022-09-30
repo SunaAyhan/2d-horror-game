@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"Spr_karakter_yurume","path":"sprites/Spr_karakter_yurume/Spr_karakter_yurume.yy",},"order":1,},
+    {"id":{"name":"spr_karakter_donme","path":"sprites/spr_karakter_donme/spr_karakter_donme.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
