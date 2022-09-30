@@ -41,6 +41,7 @@
     {"id":{"name":"Spr_yer_yesil","path":"sprites/Spr_yer_yesil/Spr_yer_yesil.yy",},"order":3,},
     {"id":{"name":"Spr_duvar","path":"sprites/Spr_duvar/Spr_duvar.yy",},"order":8,},
     {"id":{"name":"Spr_masa","path":"sprites/Spr_masa/Spr_masa.yy",},"order":19,},
+    {"id":{"name":"sprt_main_background","path":"sprites/sprt_main_background/sprt_main_background.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
