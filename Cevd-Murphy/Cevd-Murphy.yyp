@@ -35,6 +35,7 @@
     {"id":{"name":"sprt_forest_bush_2","path":"sprites/sprt_forest_bush_2/sprt_forest_bush_2.yy",},"order":22,},
     {"id":{"name":"spr_forest_background","path":"sprites/spr_forest_background/spr_forest_background.yy",},"order":10,},
     {"id":{"name":"spr_forest_bush","path":"sprites/spr_forest_bush/spr_forest_bush.yy",},"order":16,},
+    {"id":{"name":"Spr_karakter_stop","path":"sprites/Spr_karakter_stop/Spr_karakter_stop.yy",},"order":39,},
     {"id":{"name":"Sprite_morpy_jump","path":"sprites/Sprite_morpy_jump/Sprite_morpy_jump.yy",},"order":3,},
     {"id":{"name":"spr_fire_two","path":"sprites/spr_fire_two/spr_fire_two.yy",},"order":13,},
     {"id":{"name":"Spr_baglama","path":"sprites/Spr_baglama/Spr_baglama.yy",},"order":6,},
