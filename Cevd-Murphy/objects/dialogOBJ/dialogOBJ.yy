@@ -2,10 +2,7 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "dialogOBJ",
-  "spriteId": {
-    "name": "Sprite50",
-    "path": "sprites/Sprite50/Sprite50.yy",
-  },
+  "spriteId": null,
   "solid": true,
   "visible": true,
   "managed": true,
