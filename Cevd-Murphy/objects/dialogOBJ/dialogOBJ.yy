@@ -1,15 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "playerObj",
+  "name": "dialogOBJ",
   "spriteId": {
-    "name": "Spr_karakter_yurume",
-    "path": "sprites/Spr_karakter_yurume/Spr_karakter_yurume.yy",
+    "name": "Sprite50",
+    "path": "sprites/Sprite50/Sprite50.yy",
   },
   "solid": true,
   "visible": true,
   "managed": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "Spr_masa",
+    "path": "sprites/Spr_masa/Spr_masa.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
@@ -26,8 +29,7 @@
   "physicsShapePoints": [],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"playerObj","path":"objects/playerObj/playerObj.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
