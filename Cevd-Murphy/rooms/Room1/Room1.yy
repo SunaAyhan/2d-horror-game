@@ -6,7 +6,7 @@
   "volume": 1.0,
   "parentRoom": null,
   "views": [
-    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":500,"hview":400,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":true,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
@@ -43,7 +43,7 @@
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_57EAB62","spriteId":{"name":"Spr_kenar","path":"sprites/Spr_kenar/Spr_kenar.yy",},"headPosition":0.0,"rotation":-89.738815,"scaleX":2.9545455,"scaleY":3.8674698,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":3139.0,"y":0.0,},
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_369565D2","spriteId":{"name":"Spr_kenar","path":"sprites/Spr_kenar/Spr_kenar.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":2.9545455,"scaleY":3.8674698,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":3104.8252,"y":42.710846,},
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_1F6025","spriteId":{"name":"Spr_kenar","path":"sprites/Spr_kenar/Spr_kenar.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":2.9545455,"scaleY":3.8674698,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":3104.8252,"y":216.57831,},
-        {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_2D391F11","spriteId":{"name":"Spr_kapi","path":"sprites/Spr_kapi/Spr_kapi.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.56933546,"scaleY":0.5598143,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1875.2054,"y":53.602524,},
+        {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_2D391F11","spriteId":{"name":"Spr_kapi","path":"sprites/Spr_kapi/Spr_kapi.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.56933546,"scaleY":0.5598143,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1876.0,"y":53.602524,},
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_EEC3C2B","spriteId":{"name":"Spr_testi","path":"sprites/Spr_testi/Spr_testi.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":8.208697,"scaleY":5.129075,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2676.7793,"y":496.46674,},
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_62A931BC","spriteId":{"name":"Spr_kuyu","path":"sprites/Spr_kuyu/Spr_kuyu.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":5.5955935,"scaleY":6.675174,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2252.7786,"y":356.71085,},
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_70A31F60","spriteId":{"name":"Spr_kuyu_2","path":"sprites/Spr_kuyu_2/Spr_kuyu_2.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":7.171672,"scaleY":4.6212735,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2364.6904,"y":356.71088,},
@@ -73,8 +73,8 @@
   },
   "viewSettings": {
     "inheritViewSettings": false,
-    "enableViews": false,
-    "clearViewBackground": false,
+    "enableViews": true,
+    "clearViewBackground": true,
     "clearDisplayBuffer": true,
   },
   "physicsSettings": {
