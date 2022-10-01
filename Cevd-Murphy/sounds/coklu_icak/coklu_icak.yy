@@ -17,7 +17,7 @@
   "soundFile": "coklu_icak.mp3",
   "duration": 6.06,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "bicak",
+    "path": "folders/Sounds/bicak.yy",
   },
 }

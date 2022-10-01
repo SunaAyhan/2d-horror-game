@@ -17,7 +17,7 @@
   "soundFile": "bicak.mp3",
   "duration": 1.698005,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "bicak",
+    "path": "folders/Sounds/bicak.yy",
   },
 }
