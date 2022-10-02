@@ -7,7 +7,7 @@ messageID = 0;
 messageText = "";
 messageChar = 0;
 messageSpeed = 0.3;
-
+global.textBoxDone = 0;
 // Message properties
 enum MSG {
 	TEXT,
@@ -20,7 +20,7 @@ var _guiW = display_get_gui_width();
 var _guiH = display_get_gui_height();
 
 // Textbox dimensions
-height = floor(_guiH * 0.25);
+height = floor(_guiH * 0.15);
 width = _guiW;
 
 // Position on screen

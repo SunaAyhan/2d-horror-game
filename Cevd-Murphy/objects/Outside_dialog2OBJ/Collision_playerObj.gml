@@ -9,8 +9,7 @@
 global.which_img =0;
 asd=0;
 msg = [
-	["Inanilmaz sicak bir yaz gunu,", "CREATINY", Spr_bad],
-	["cekirdek ailesinin kalan tek uyesi Cevdet,", "CREATINY", Spr_bad],
+	["Neden bu kadar sanssizim? Yagmurdan nefret ediyorum! O kadar sanssizim ki simdi ya semsiyem kirilir, ya yoldan gecen bir araba su sicratir ya da bi su birikintisinin icine duserim..", "Murphy", Spr_playerSmall]
 ]
 
 global.textBoxDone = 0;
@@ -26,4 +25,5 @@ if (!instance_exists(oTextbox)) {
 		
 			ds_list_add(_list, _arr);
 		}
+		instance_destroy();
 	}
