@@ -11,12 +11,12 @@ asd=0;
 msg = [
 	["Hayirrr!!! Tekrar baslayamam her seye!", "Murphy", Spr_playerSmall],
 	["Ahhh Murphy. Bu kadar kolay olacagini mi zannettin?", "Irizu", badGuySmallSPR],
-	["Sanssizliğini yenemeyeceksin, bu senin kaderin", "Irizu", badGuySmallSPR],
+	["Sanssizligini yenemeyeceksin, bu senin kaderin", "Irizu", badGuySmallSPR],
 	[":( Buna katlanamiyorum artik", "Murphy", Spr_playerSmall],
 	["Hey morphy buraya bak", "Angel", sprt_angel_flag_stop],
 	["... ... Sen de nesin? Nasil ucabiliyorsun?", "Murphy", Spr_playerSmall],
 	["Ben bir melegim. Seni bu sonsuz tahihsizlikten kurtarmaya geldim", "Angel", sprt_angel_flag_stop],
-	["Bu gercek olamaz, Nasıl kurtulacagim? Bu benim kaderim. :(", "Murphy", Spr_playerSmall],
+	["Bu gercek olamaz, Nasil kurtulacagim? Bu benim kaderim. :(", "Murphy", Spr_playerSmall],
 	["Basina gelebilecek her turlu tehlikeden korunmak icin kendini sigortalatabilirsin. Boylece hep guvende olursun", "Angel", sprt_angel_flag_stop],
 	["Hayatta her ihtimal var Morphy, ancak Anadolu Sigorta'da kaybetmek yok", "Angel", sprt_angel_flag_stop],
 ]

@@ -6,5 +6,6 @@ if triggered && turnCount < 22 {
     if(turnCount>22){
         turn = false;
         turnCount = 0;
+		alarm[0] = room_speed * 4;
     }
 }

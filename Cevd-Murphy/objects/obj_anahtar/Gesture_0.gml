@@ -6,7 +6,7 @@ if(global.anahtar==0){
 	global.which_img =0;
 	asd=0;
 	msg = [
-		["İşte! Anahtar burada.", "Murphy", Spr_playerSmall],
+		["Iste! Anahtar burada.", "Murphy", Spr_playerSmall],
 	]
 
 	global.textBoxDone = 0;
@@ -22,7 +22,7 @@ if(global.anahtar==0){
 		
 				ds_list_add(_list, _arr);
 			}
-			layer_destroy("baglama")
+			audio_play_sound(keys, 9, 0)
 			global.anahtar=1
 		}
 	}

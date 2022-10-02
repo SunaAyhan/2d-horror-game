@@ -1,4 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-instance_create_layer(x, y, "Instances", obj_angel);
+if(global.textBoxDone == 1){
+	room_goto(end_room)	
+}

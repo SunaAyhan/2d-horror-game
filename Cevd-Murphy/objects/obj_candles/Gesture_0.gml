@@ -13,8 +13,8 @@ global.which_img =0;
 asd=0;
 msg = [
 	["Ah sonunda iplerden kurtuldum", "Murphy", Spr_playerSmall],
-	["Hey! Ipleri yaktim simdi ne yapacağım?", "Murphy", Spr_playerSmall],
-	["Bu odadan cıkabilmen icin kapiyi acman gerekiyor. Ileride bir testi var anahtarlar o testinin icinde.", "Irizu", badGuySmallSPR],
+	["Hey! Ipleri yaktim simdi ne yapacagim?", "Murphy", Spr_playerSmall],
+	["Bu odadan cikabilmen icin kapiyi acman gerekiyor. Ileride bir testi var anahtarlar o testinin icinde.", "Irizu", badGuySmallSPR],
 ]
 
 global.textBoxDone = 0;
@@ -34,6 +34,7 @@ if (!instance_exists(oTextbox)) {
 		instance_create_layer(763, 422, "Instances", playerObj);
 		instance_create_layer(0, 0, "Instances", rightArrowOBJ);
 		instance_create_layer(0, 0, "Instances", leftArrowOBJ);
+		audio_play_sound(fire, 9, 0)
 		instance_destroy();
 	}
 }

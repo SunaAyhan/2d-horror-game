@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Trees_dialog3OBJ",
-  "spriteId": {
-    "name": "sprt_one_tree",
-    "path": "sprites/sprt_one_tree/sprt_one_tree.yy",
-  },
+  "name": "obj_solid",
+  "spriteId": null,
   "solid": true,
   "visible": true,
   "managed": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "Spr_direk",
+    "path": "sprites/Spr_direk/Spr_direk.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
@@ -25,15 +25,12 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"playerObj","path":"objects/playerObj/playerObj.yy",},},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "dialogs",
-    "path": "folders/Objects/dialogs.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
 }

@@ -20,7 +20,7 @@ else if (mouse_check_button_pressed(mb_left) or mouse_check_button_pressed(mb_ri
 	}
 	// Close textbox
 	else {
-		instance_destroy();
 		global.textBoxDone = 1;
+		instance_destroy();
 	}
 }

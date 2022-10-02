@@ -22,7 +22,6 @@ if(global.anahtar==0){
 		
 				ds_list_add(_list, _arr);
 			}
-			layer_destroy("baglama")
 		}
 	}
 }else{
@@ -32,9 +31,9 @@ if(global.anahtar==0){
 	msg = [
 		["Evet sonunda odadan cikiyorum.", "Murphy", Spr_playerSmall],
 		["... ...", "Murphy", Spr_playerSmall],
-		["Lanet olsun anahtar kırıldı! Şimdi ne yapacağım?!?", "Murphy", Spr_playerSmall],
-		["Hahahaha. Sen hiç akıllanmayacak mısın?", "Irizu", badGuySmallSPR],
-		["Ben bu şanssızlığımı nasıl yeneceğim :( Acaba camdan atlayabilir miyim?", "Murphy", Spr_playerSmall],
+		["Lanet olsun anahtar kirildi! Simdi ne yapacagim?!?", "Murphy", Spr_playerSmall],
+		["Hahahaha. Sen hic akillanmayacak misin?", "Irizu", badGuySmallSPR],
+		["Ben bu sanssizligimi nasil yenecegim :( Acaba camdan atlayabilir miyim?", "Murphy", Spr_playerSmall],
 
 	]
 
@@ -51,7 +50,7 @@ if(global.anahtar==0){
 		
 				ds_list_add(_list, _arr);
 			}
-			layer_destroy("baglama")
+			audio_play_sound(door, 9, 0)
 		}
 	}
 }

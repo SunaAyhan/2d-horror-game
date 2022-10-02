@@ -33,6 +33,7 @@ if (!instance_exists(oTextbox)) {
 		
 			ds_list_add(_list, _arr);
 		}
+		audio_play_sound(bicak, 9, 0)
 		instance_destroy();
 	}
 }

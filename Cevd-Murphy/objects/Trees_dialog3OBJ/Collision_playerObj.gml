@@ -13,7 +13,7 @@ msg = [
 ]
 
 global.textBoxDone = 0;
-if (!instance_exists(oTextbox)) {
+if (!instance_exists(oTextbox)&&triggered==0) {
 		// Create
 		var _tb = instance_create_layer(0, 0, "Instances", oTextbox);
 	
@@ -25,5 +25,6 @@ if (!instance_exists(oTextbox)) {
 		
 			ds_list_add(_list, _arr);
 		}
+		alarm[0] = room_speed *2;
 		triggered=1;
 	}
