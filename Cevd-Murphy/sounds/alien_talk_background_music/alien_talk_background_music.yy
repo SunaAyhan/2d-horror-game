@@ -17,7 +17,7 @@
   "soundFile": "alien_talk_background_music.mp3",
   "duration": 247.6179,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "alien",
+    "path": "folders/Sounds/alien.yy",
   },
 }
