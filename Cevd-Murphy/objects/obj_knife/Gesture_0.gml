@@ -17,7 +17,7 @@ msg = [
 	["Bir seyin ters gidebilecegi olasiliklari engelleseniz bile, aninda yeni bir olasilik ortaya cikacaktir.", "Irizu", badGuySmallSPR],
 	["Talihsizlik pesimi birakmiyor.. simdi ne yapacagim", "Murphy", Spr_playerSmall],
 	["...", "Murphy", Spr_playerSmall],
-	["Surada yanan mumu kullanarak ipleri eritebilirim", "Murphy", Spr_playerSmall],
+	["Belki de ipleri eritebilirim", "Murphy", Spr_playerSmall],
 ]
 
 global.textBoxDone = 0;

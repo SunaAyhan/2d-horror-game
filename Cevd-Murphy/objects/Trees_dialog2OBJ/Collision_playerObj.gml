@@ -9,7 +9,7 @@
 global.which_img =0;
 asd=0;
 msg = [
-	["Lanet olsun sirilsiklam oldum.", "Murphy", Spr_playerSmall],
+	["Bu nasil bir ruzgar? Neredeyse ucacagim.", "Murphy", Spr_playerSmall],
 	["Neredeyim ben", "Murphy", Spr_playerSmall],
 ]
 

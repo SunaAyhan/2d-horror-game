@@ -18,7 +18,7 @@ msg = [
 	["Ben bir melegim. Seni bu sonsuz tahihsizlikten kurtarmaya geldim", "Angel", sprt_angel_flag_stop],
 	["Bu gercek olamaz, Nasil kurtulacagim? Bu benim kaderim. :(", "Murphy", Spr_playerSmall],
 	["Basina gelebilecek her turlu tehlikeden korunmak icin kendini sigortalatabilirsin. Boylece hep guvende olursun", "Angel", sprt_angel_flag_stop],
-	["Hayatta her ihtimal var Morphy, ancak Anadolu Sigorta'da kaybetmek yok", "Angel", sprt_angel_flag_stop],
+	["Hayatta her ihtimal var Murphy, ancak Anadolu Sigorta'da kaybetmek yok", "Angel", sprt_angel_flag_stop],
 ]
 
 global.textBoxDone = 0;

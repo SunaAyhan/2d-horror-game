@@ -15,7 +15,7 @@ msg = [
 	["N n nasil yenecegim?", "Murphy", Spr_playerSmall],
 	["Buradan kurtulmayi deneyebilirsin. Bol sans..", "Irizu", badGuySmallSPR],
 	["... ...", "Murphy", Spr_playerSmall],
-	["... Masada duran bicagi kullanarak bu ipleri kesebilirim", "Murphy", Spr_playerSmall],
+	["... Bir sekilde iplerden kurtulmaliyim", "Murphy", Spr_playerSmall],
 ]
 
 global.textBoxDone = 0;

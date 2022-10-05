@@ -14,7 +14,7 @@ asd=0;
 msg = [
 	["Ah sonunda iplerden kurtuldum", "Murphy", Spr_playerSmall],
 	["Hey! Ipleri yaktim simdi ne yapacagim?", "Murphy", Spr_playerSmall],
-	["Bu odadan cikabilmen icin kapiyi acman gerekiyor. Ileride bir testi var anahtarlar o testinin icinde.", "Irizu", badGuySmallSPR],
+	["Bu odadan cikabilmen icin kapiyi acman gerekiyor. Anahtarlar bu odada bir yerlerde.", "Irizu", badGuySmallSPR],
 ]
 
 global.textBoxDone = 0;
